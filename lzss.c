@@ -1,5 +1,5 @@
 /*
- * copyright(c)2014 Sean Chen
+ * copyright(c)2014 chenxiang
  * */
 
 #include <stdio.h>
@@ -32,7 +32,7 @@ printf( "Usage : %s [options] [files]\n" \
 
 #define version() { \
 printf( "%s %s\n" \
-        "Copyright (C) 2014 Sean Chen\n\n" \
+        "Copyright (C) 2014 chenxiang\n\n" \
         "%s is free software; you can redistribute it " \
         "under the terms of the GNU General Public License " \
         "as published by the Free Software Foundation; either " \
